@@ -1,14 +1,14 @@
 <h1>Online Shoppers Purchasing Intention - Data Preparation and Modelling </h1>
 
-•	Work in a team of 4, collecting and preparing data to retrieve a clean dataset for visualization and modelling. 
-•	Train and evaluate machine learning models (Classification and Clustering) to the trend of customer to predict behavior and decision in shopping and support business development. 
-•	Mark: High Distinction (95%).
-•	Tools: Jupyter, Pandas, NumPy, Matplotlib, Scikit-learn. 
+•	Work in a team of 4, collecting and preparing data to retrieve a clean dataset for visualization and modelling. <br>
+•	Train and evaluate machine learning models (Classification and Clustering) to the trend of customer to predict behavior and decision in shopping and support business development. <br>
+•	Mark: High Distinction (95%). <br>
+•	Tools: Jupyter, Pandas, NumPy, Matplotlib, Scikit-learn. <br><br>
 
 
-Tran Hoang Phuc - s3911244 - 33%
-Nguyen Huy Binh - s3883631 - 33%
-Nguyen Tri Dung - s3883630 - 33%
+Tran Hoang Phuc - s3911244 <br>
+Nguyen Huy Binh - s3883631 <br>
+Nguyen Tri Dung - s3883630 <br>
 
 Instruction:
 - Add "Assignment3.ipynb" and "online_shoppers_intention.csv" into one Jupyter Notebook folder
