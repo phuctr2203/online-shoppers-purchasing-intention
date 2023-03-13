@@ -5,14 +5,15 @@
 •	Mark: High Distinction (95%). <br>
 •	Tools: Jupyter, Pandas, NumPy, Matplotlib, Scikit-learn. <br><br>
 
-
-Tran Hoang Phuc - s3911244 <br>
-Nguyen Huy Binh - s3883631 <br>
-Nguyen Tri Dung - s3883630 <br>
-
-Instruction:
+<h2>Instruction: </h2>
 - Add "Assignment3.ipynb" and "online_shoppers_intention.csv" into one Jupyter Notebook folder
 - Open Jupyter Notebook
 - Open the "Assignemnt3.ipynd" file
 - All the output is available in the file, you can check by re-run the file using the following steps:
-(Main menu -> Kernal -> Restart & Run All)
+(Main menu -> Kernal -> Restart & Run All) <br>
+
+<h2> Members: </h2>
+
+Tran Hoang Phuc - s3911244 <br>
+Nguyen Huy Binh - s3883631 <br>
+Nguyen Tri Dung - s3883630 <br>
