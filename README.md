@@ -1,4 +1,4 @@
-Online Shoppers Purchasing Intention - Data Preparation and Modelling 
+<p1>Online Shoppers Purchasing Intention - Data Preparation and Modelling </p1>
 
 •	Work in a team of 4, collecting and preparing data to retrieve a clean dataset for visualization and modelling. 
 •	Train and evaluate machine learning models (Classification and Clustering) to the trend of customer to predict behavior and decision in shopping and support business development. 
