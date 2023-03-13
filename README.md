@@ -3,7 +3,7 @@
 •	Work in a team of 4, collecting and preparing data to retrieve a clean dataset for visualization and modelling. <br>
 •	Train and evaluate machine learning models (Classification and Clustering) to the trend of customer to predict behavior and decision in shopping and support business development. <br>
 •	Mark: High Distinction (95%). <br>
-•	Tools: Jupyter, Pandas, NumPy, Matplotlib, Scikit-learn. <br><br>
+•	Tools: Jupyter, Pandas, NumPy, Matplotlib, Scikit-learn. <br>
 
 <h2>Instruction: </h2>
 - Add "Assignment3.ipynb" and "online_shoppers_intention.csv" into one Jupyter Notebook folder
